@@ -31,3 +31,15 @@ body {
 .conteudo-prato h1 {
     padding-bottom: 10px;
 }
+
+.img-bolinho-bacalhau {
+    width: 50%;
+    max-width: 300px;
+    padding-bottom: 30px;
+}
+
+.conteudo-prato p {
+    padding: 20px;
+    width: 400px;
+    text-align: center;
+}
