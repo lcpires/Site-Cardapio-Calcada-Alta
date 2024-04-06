@@ -52,16 +52,22 @@ header {
     font-size: 20px;
     font-weight: 300;
     margin-bottom: -15px;
+    padding-left: 20px;
+    color: #ffffff;
+    text-shadow: 1px 1px 5px #00000091;
 }
 
 .title-header > h1 {
     font-family: var(--fonte1);
     font-weight: 500;
-    font-size: 35px;
+    font-size: 30px;
     padding-left: 20px;
     width: 100%;
     color: #ffffff;
     text-shadow: 1px 1px 5px #00000091;
+}
+
+.title-header > h2 {
 }
 
 .endereco > img {
