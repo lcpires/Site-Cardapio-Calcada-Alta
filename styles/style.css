@@ -157,14 +157,17 @@ section > div {
     color: #00000094;
 }
 
-
-
 .area-saber-mais {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     padding: 0px 10px;
     align-items: center;
+}
+
+.area-saber-mais > p {
+    font-weight: 500;
+    color: #01310b;
 }
 
 .buttonSaberMais {
