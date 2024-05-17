@@ -187,24 +187,6 @@ hr {
     max-width: 700px;
 }
 
-.modal {
-    margin: 30px auto;
-    border: none;
-    text-align: center;
-    border-radius: 10px;
-    box-shadow: 1px 2px 8px #000;
-    width: 80%;
-    max-width: 700px;
-}
-
-.imgModal {
-    padding: 10px;
-}
-
-.contModal {
-    padding: 0px 30px 20px 30px;
-}
-
 .buttonClose {
     display: flex;
     justify-content: right;
